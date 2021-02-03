@@ -9,9 +9,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using WebApp2.Data;
+using fghhfghfghfg.Data;
 
-namespace WebApp2
+namespace fghhfghfghfg
 {
     public class Startup
     {
@@ -27,8 +27,8 @@ namespace WebApp2
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<WebApp2Context>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("WebApp2Context")));
+            services.AddDbContext<fghhfghfghfgContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("fghhfghfghfgContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
