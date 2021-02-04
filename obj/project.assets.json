@@ -8826,11 +8826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damia\\source\\repos\\fghhfghfghfg\\fghhfghfghfg\\fghhfghfghfg.csproj",
-      "projectName": "fghhfghfghfg",
-      "projectPath": "C:\\Users\\damia\\source\\repos\\fghhfghfghfg\\fghhfghfghfg\\fghhfghfghfg.csproj",
+      "projectUniqueName": "C:\\Users\\damia\\source\\repos\\AzureWebApp\\AzureWebApp\\AzureWebApp.csproj",
+      "projectName": "AzureWebApp",
+      "projectPath": "C:\\Users\\damia\\source\\repos\\AzureWebApp\\AzureWebApp\\AzureWebApp.csproj",
       "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damia\\source\\repos\\fghhfghfghfg\\fghhfghfghfg\\obj\\",
+      "outputPath": "C:\\Users\\damia\\source\\repos\\AzureWebApp\\AzureWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\damia\\AppData\\Roaming\\NuGet\\NuGet.Config",

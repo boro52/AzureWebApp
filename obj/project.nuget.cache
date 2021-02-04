@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jm4z5tqlYzf1KkIel+TkSiPrZJ7UyUWaN4PaPU5Y9xG1+oF+usPZvmcekEXlHHqEtBFEfKFqDOTgMVlMQEZw6Q==",
+  "dgSpecHash": "owIXekF9pYDXUp+QZaRo6kbgrkQfH5V3AnMyUJg3ZRhww0mB7rGMxTSQbcZLFrJohdA17scqq/xcM7av9XqvKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\damia\\source\\repos\\fghhfghfghfg\\fghhfghfghfg\\fghhfghfghfg.csproj",
+  "projectFilePath": "C:\\Users\\damia\\source\\repos\\AzureWebApp\\AzureWebApp\\AzureWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\damia\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\damia\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

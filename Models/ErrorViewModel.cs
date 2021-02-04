@@ -1,6 +1,6 @@
 using System;
 
-namespace fghhfghfghfg.Models
+namespace AzureWebApp.Models
 {
     public class ErrorViewModel
     {
