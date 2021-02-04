@@ -55,7 +55,7 @@ namespace AzureWebApp
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=CarModels}/{action=Index}/{id?}");
             });
         }
     }
